@@ -1,15 +1,15 @@
 # QTripDynamic
 
-QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities. 
+QTrip is a travel website for travellers looking for many adventures in different cities. 
 
-- **Website URL :** https://deb-qtrip-dynamic-frontend.netlify.app/
+- **Website URL :* https://qtrip-dynamic-vivek-frontend.netlify.app/
 
-# During the course of this project
+# During this project
 
 - Created web pages using HTML and CSS and made them dynamic using JavaScript
-- Improved UX with multi-select filters, image carouselsImplemented conditional rendering of page elements
+- Improved UX with multi-select filters and image carouselsImplemented conditional rendering of page elements
 - Implemented conditional rendering of page elements
-- Utilized localStorage to persist user preferences at client-side and facilitated reservation form submission using fetch API.
+- Utilized localStorage to persist user preferences on the client side and facilitated reservation form submission using fetch API.
 - Deployed the website using Netlify/Vercel for Frontend and Render for Backend.    
 
 # QTripDynamic Architecture Diagram
@@ -58,4 +58,4 @@ QTrip is a travel website aimed at travellers looking for a multitude of adventu
      - Configured the QTrip dynamic frontend to use the render deployed backend
      - Deployed the QTrip dynamic frontend to Netlify
  ### Skills used
-     - Deployment, Render, Netlify
+     - Deployment, Netlify
